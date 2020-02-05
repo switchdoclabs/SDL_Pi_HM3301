@@ -19,18 +19,18 @@ You must install the pigpio library and run the daemon.
 
 sudo apt-get update
 sudo apt-get install pigpio
-<\pre>
+</pre>
 
 Then run:
 
 <pre>
 sudo pigpiod
-<\pre>
+</pre>
 
 Finally, run your test:
 <pre>
 sudo python3 testSDL_Pi_HM3301.py
-<\pre>
+</pre>
 and you should see something like this:
 
 
