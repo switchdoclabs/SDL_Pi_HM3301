@@ -30,7 +30,7 @@ sudo pigpiod
 Finally, run your test:
 <pre>
 sudo python3 testSDL_Pi_HM3301.py
-</pre>
+<\pre>
 and you should see something like this:
 
 
